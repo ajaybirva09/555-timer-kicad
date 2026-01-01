@@ -26,15 +26,12 @@ which is output through a speaker.
 
 ## 🖼 Project Images
 
-## 🖼 Project Images
-
 ### 🔹 Schematic
-![Schematic](./images/schematic.png)
+![Schematic](./schematic.png)
 
 ### 🔹 PCB Layout
-![PCB Layout](./images/pcb_layout.png)
+![PCB Layout](./pcb_layout.png)
 
 ### 🔹 PCB 3D View
-![PCB 3D View](./images/pcb_3d.png)
-
+![PCB 3D View](./pcb_3d.png)
 
