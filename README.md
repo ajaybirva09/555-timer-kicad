@@ -24,5 +24,14 @@ which is output through a speaker.
 - KiCad 9.0
 
 ## 🖼 Images
-_(See images folder for schematic and PCB snapshots)_
+## 🖼 Project Images
+
+### 🔹 Schematic
+![Schematic](images/schematic.png)
+
+### 🔹 PCB Layout
+![PCB Layout](images/pcb_layout.png)
+
+### 🔹 PCB 3D View
+![PCB 3D View](images/pcb_3d.png)
 
