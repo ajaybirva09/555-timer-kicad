@@ -1,11 +1,28 @@
 # 555 Timer Audio Tone Generator
 
-## Description
-Audio tone generator using LM555 timer designed in KiCad 9.0.
+## 📌 Overview
+This project is an audio tone generator circuit designed using KiCad 9.0.
+It uses the LM555 timer IC in astable mode to produce a continuous tone
+which is output through a speaker.
 
-## Files
-- Schematic (.kicad_sch)
-- PCB Layout (.kicad_pcb)
+## 🔧 Functionality
+- Generates an audible square wave using a 555 timer
+- Speaker output through coupling capacitor
+- Frequency determined by R1, R2, C1 network
 
-## Tool Used
+## 🧩 Components
+| Component | Value |
+|-----------|--------|
+| LM555 Timer | 1 |
+| Resistor R1 | 4.7kΩ |
+| Resistor R2 | 100kΩ |
+| Capacitor C1 | 0.1µF |
+| Capacitor C2 | 10µF |
+| Speaker | 8Ω |
+
+## 🛠 Designed With
 - KiCad 9.0
+
+## 🖼 Images
+_(See images folder for schematic and PCB snapshots)_
+
