@@ -23,15 +23,18 @@ which is output through a speaker.
 ## 🛠 Designed With
 - KiCad 9.0
 
-## 🖼 Images
+
+## 🖼 Project Images
+
 ## 🖼 Project Images
 
 ### 🔹 Schematic
-![Schematic](images/schematic.png)
+![Schematic](./images/schematic.png)
 
 ### 🔹 PCB Layout
-![PCB Layout](images/pcb_layout.png)
+![PCB Layout](./images/pcb_layout.png)
 
 ### 🔹 PCB 3D View
-![PCB 3D View](images/pcb_3d.png)
+![PCB 3D View](./images/pcb_3d.png)
+
 
